@@ -19,7 +19,7 @@ and open the template in the editor.
 <nav class="navbar navbar-default navbar-inverse">
   <div class="container-fluid">
     <div class="navbar-header">
-      <a class="navbar-brand" href="#">Apartment Management</a>
+      <a class="navbar-brand" href="#">Apartment Management System</a>
     </div>
     <ul class="nav navbar-nav pull-right">
      
